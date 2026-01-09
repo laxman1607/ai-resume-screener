@@ -80,7 +80,7 @@ Ensure the 'candidate_name' is extracted from the resume if possible, otherwise 
 ## 🏗️ Project Structure
 
 ```
-Smart-Resume-Screener/
+ai-resume-screener/
 ├── resume_screener_backend.py     # Flask backend (AI logic + Gemini integration)
 ├── resume_screener_frontend.html  # Tailwind + JS frontend
 └── README.md                      # Documentation (this file)
