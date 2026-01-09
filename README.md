@@ -1,4 +1,4 @@
-# 🧠 Smart Resume Screener  
+# 🧠AI Resume Screener  
 ### _AI-Powered JD–Resume Analyzer using Google Gemini_
 
 <p align="center">
@@ -27,7 +27,7 @@ It generates an intelligent **match score**, identifies **key strengths**, and f
 
 ## 🏗️ System Architecture
 
-The Smart Resume Screener follows a **3-tier AI architecture** integrating frontend, backend, and an LLM service.  
+The AI Resume Screener follows a **3-tier AI architecture** integrating frontend, backend, and an LLM service.  
 
 ```mermaid
 flowchart LR
