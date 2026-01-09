@@ -103,8 +103,8 @@ Smart-Resume-Screener/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart-resume-screener.git
-cd smart-resume-screener
+git clone https://github.com/laxman1607/ai-resume-screener.git
+cd ai-resume-screener
 ```
 
 ### 2️⃣ Install Backend Dependencies
